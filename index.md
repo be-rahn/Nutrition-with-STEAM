@@ -68,7 +68,7 @@ What are examples of **nutrients**?
 
 Once you have written down at least 3 examples of nutrients, watch this video to learn more about nutrients. Pay close attention. 🤓 There will be a short quiz after you watch the video. Take notes in your notebook to help you with the quiz.
 
-[All About Nutrition Video](https://www.youtube.com/watch?v=uYamwNVnCVU){target="_blank"}
+[All About Nutrition Video](https://www.youtube.com/watch?v=uYamwNVnCVU){:target="_blank"}
 
 
 
@@ -76,7 +76,7 @@ Once you have written down at least 3 examples of nutrients, watch this video to
 
 Show what you know about nutrition by taking this short quiz as your exit ticket for the day.👍
 
-[Nutrition Basics Quiz](https://forms.gle/ZpJNRTVdMgSgfMxm6){target="_blank"}
+[Nutrition Basics Quiz](https://forms.gle/ZpJNRTVdMgSgfMxm6){:target="_blank"}
 
 
 
