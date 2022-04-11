@@ -34,7 +34,7 @@ Take a look at the picture below. 👇
 
 Do you recognize some of these **foods**?
 
-![Nutrients are found in healthy foods](https://github.com/be-rahn/Nutrition-with-STEAM/blob/gh-pages/organic-food.jpg)
+![Nutrients are found in healthy foods](organic-food.jpg)
 
 
 
