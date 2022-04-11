@@ -60,7 +60,7 @@ What are examples of **nutrients**?
 
 
 
-![Person eating salad](C:\Users\vjbro\Downloads\man-eating-salad-flat-illustration-2022-03-18-01-57-48-utc\Jpg\World Plant 1-01.jpg)
+![Person eating salad](eating-salad.jpg)
 
 
 
