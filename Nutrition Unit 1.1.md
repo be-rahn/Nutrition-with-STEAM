@@ -1,3 +1,9 @@
+---
+title: "Exploring Nutrition with STEAM"
+permalink: /
+layout: default
+---
+
 # Exploring Nutrition with STEAM
 
 ## Unit 1
